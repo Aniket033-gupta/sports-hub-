@@ -39,7 +39,8 @@ A comprehensive full-stack web application for sports facility management includ
 
 1. Clone the repository
 ```bash
-cd nodeProject
+git clone https://github.com/Aniket033-gupta/sports-hub-.git
+cd sports-hub-
 ```
 
 2. Install all dependencies
@@ -122,7 +123,7 @@ npm run client
 ## Project Structure
 
 ```
-nodeProject/
+sports-hub-/
 ├── client/                 # React frontend
 │   ├── public/
 │   │   └── index.html
